@@ -1,5 +1,7 @@
-# Malware Intelligence
+# ShadowStackRE 
+Committed to delivering high quality malware intelligence and services to the cybersecurity community. 
 
+## Malware Intelligence
 The following contains publically available malware intelligence information.
 
 # License
