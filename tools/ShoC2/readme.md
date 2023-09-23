@@ -36,6 +36,9 @@ The Shodan results are printed to STDOUT in the following format:
 
 
 ## Changelog
+- Sept. 22nd 2023:
+    - Added IPv6 address support
+
 - August 19th 2023:
     - Initial release
 
